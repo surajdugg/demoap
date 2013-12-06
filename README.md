@@ -1,4 +1,4 @@
 demoap
 ======
 
-Demo app
+This is a Demo app
